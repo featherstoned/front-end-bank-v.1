@@ -1,0 +1,31 @@
+/* from standalone */
+
+/* outside of the card  */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;    
+
+}
+
+
+
+/*^ THIS IS INSIDE THE FORM  */
+.form-control {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.card {
+    style={{ fontFamily: "impact" }}
+
+    
+}
+
+.Card {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+  .homecard {
+    background-color: orange;
+  }
+  
